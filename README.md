@@ -1,6 +1,6 @@
 *Please read the **test plan** for further details*
 
-# SimpleUnitTestProject
+# Quality Assurance and Release Management
 A simple Selenium c# automated test project with ASP.NET MVC
 # Repo link ==> https://dev.azure.com/hmandiv/_git/MVCLifecycle
 
